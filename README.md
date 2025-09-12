@@ -1,1 +1,3 @@
-This will conteins set of Practicals 
+http://localhost/yourname/practical-01/
+http://localhost/yourname/practical-02/
+http://localhost/yourname/practical-03/
